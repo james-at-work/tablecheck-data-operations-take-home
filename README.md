@@ -5,6 +5,7 @@ Take a look at the dataset located in `/data/data.csv`. Your goal is to interpre
   - [ ] How much money did the "Restaurant at the end of the universe" make?
   - [ ] What was the most popular dish at each restaurant?
   - [ ] What was the most profitable dish at each restaurant?
+  - [ ] Who visited each store the most, and who visited the most stores?
 
 ## Tasks
 
